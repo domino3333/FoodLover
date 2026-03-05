@@ -8,7 +8,7 @@
 
 자세한 커밋 사항은
 [react-diy](https://github.com/domino3333/react-diy)
-에 있습니다.
+(폴더: board01)에 있습니다.
 
 
 ---
